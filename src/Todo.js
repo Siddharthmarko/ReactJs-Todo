@@ -1,6 +1,6 @@
 import React from "react";
 import { useState } from "react";
-import InputField from './Component/InputField';
+import InputField from './InputField';
 
 export default function Todo(){
     let arrOfTaskList = [];
