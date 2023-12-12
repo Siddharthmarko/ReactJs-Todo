@@ -54,6 +54,7 @@ export default function Todo(){
                     </div>
                 </div>
             </div>
+            <script src="script.js" async defer></script>
         </div>
     )
 }

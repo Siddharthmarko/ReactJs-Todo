@@ -25,8 +25,8 @@ export default function InputField({ currentValue, currentText, insertButton, di
             className="form-control"
           />
         </div>
-        <button onClick={() => insertButton()} className="btn btn-primary">Add Task</button>
-        <button className="mr-2 btn btn-link btn-sm">Cancel</button>
+        <button onClick={() => insertButton()} className="btn btn-primary">Add <span>Task</span></button>
+        <button class="mr-2 btn btn-link btn-sm">Cancel</button>
       </div>
     </div>
   );

@@ -168,3 +168,31 @@ i {
 .card-footer{
     background-color: #fff;
 }
+
+@media screen and (max-width: 990px){ 
+
+    .btn-primary span {
+        display: none;
+    }
+}
+@media screen and (max-width: 1200px){ 
+    .btn-link {
+        display: none;
+    }
+}
+@media screen and (max-width: 450px){
+    .md-form {
+        margin: 2px 2px !important;
+    }
+    .card-footer {
+        padding: 0;
+    }
+    .card-header.card-header-tab {
+        padding: 2px;
+    }
+    .card {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+}
