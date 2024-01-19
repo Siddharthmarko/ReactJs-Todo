@@ -34,4 +34,4 @@ To set up and run the Todo App locally, follow these steps:
    npm run start
 
 ### Feedback
-We value your feedback! If you have any suggestions, encountered issues, or simply want to share your experience using the Todo App, please don't hesitate to reach out to us at Siddhartha.marko.3@gmail.com Your insights help us improve the application further.
+We value your feedback! If you have any suggestions, encountered issues, or simply want to share your experience using the Todo App, please don't hesitate to reach out to us at Goutammarko90@gmail.com Your insights help us improve the application further.
